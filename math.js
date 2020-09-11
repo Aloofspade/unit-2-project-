@@ -1,0 +1,1 @@
+prompt("Please nter your number. If nothing please enter 0 ");
