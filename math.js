@@ -1,4 +1,11 @@
-prompt("Please nter your number. If nothing please enter 0 ");
+let Decimal = prompt("Please enter your number. If nothing please enter 0 ");
+R1 = Decimal % 2;
+binary = Math.floor(Decimal / 2);
+
+R2 = binary % 2;
+
+
+
 
 if(remainder1 == 10){
     remainder1 = "A";
