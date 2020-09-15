@@ -27,7 +27,7 @@ binary = Math.floor(binary / 2);
 R8 = binary % 2;
 binary = Math.floor(binary / 2);
 
-console.log(`The binary of ${Decimal} is ${R1, R2, R3, R4, R5, R6, R7, R8}`);
+console.log(`The binary of ${Decimal} is ${R8}${R7}${R6}${R5}  ${R4}${R3}${R2}${R1}`);
 
 hexadec = Math.floor(Decimal / 16);
 remainder1 = Decimal % 16;
