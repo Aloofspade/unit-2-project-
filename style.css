@@ -7,15 +7,19 @@ p {
     text-align: left;
     border-style: dotted;
     border-width: thick;
-      
+    
   } 
   body {
     background-color: black;
+    
   }
   
-  image {
-    background-image: 
-    background-repeat: no-repeat;
+ 
+
+
+  .code-binary{
+    width: 300px;
     background-position: right top;
-    margin-right: 200px;
+  margin-right: 200px;
+    
   }
