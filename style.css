@@ -1,0 +1,21 @@
+ h1{color:green;
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: green;
+    text-align: left;
+    border-style: dotted;
+    border-width: thick;
+      
+  } 
+  body {
+    background-color: black;
+  }
+  
+  image {
+    background-image: 
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+  }
